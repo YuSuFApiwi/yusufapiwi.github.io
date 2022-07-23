@@ -12,9 +12,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/static/v1?&message=HTML5 CSS3&color=blue" alt="Html5 and Css3"></a>
-<a href="#"><img src="https://img.shields.io/static/v1?label=Framework&message=Laravel&color=orange" alt="Laravel"></a>
-<a href="#"><img src="https://img.shields.io/static/v1?label=API REST&message=API&color=red" alt="REST API"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Base&message=HTML5 - CSS3&color=pink" alt="Html5 and Css3"></a>
 <a href="#"><img src="https://img.shields.io/static/v1?label=Framework&message=VueJS&color=green" alt="VueJS"></a>
 <a href="#"><img src="https://img.shields.io/static/v1?label=Vanilla&message=Javascript&color=yellow" alt="Javascript"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Langage&message=PHP&color=blue" alt="PHP"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Framework&message=Laravel&color=orange" alt="Laravel"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=API REST&message=API&color=red" alt="REST API"></a>
 </p>
