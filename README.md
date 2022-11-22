@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufapiwi&show_icons=true&theme=nightowl&locale=en" alt="YuSuFApiwi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufapiwi&show_icons=true&theme=highcontrast&locale=en" alt="YuSuFApiwi" />
 </p>
