@@ -26,3 +26,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufapiwi" alt="YuSuFApiwi" />
 </p>
+<p align="center">
+<a href="[#](https://gitee.com/YusuFApiwi)"><img src="https://img.shields.io/static/v1?label=Base&message=Gitee&color=red" alt="Gitee"></a>
+<!-- <a href="#"><img src="https://img.shields.io/static/v1?label=Framework&message=VueJS&color=green" alt="VueJS"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Vanilla&message=Javascript&color=yellow" alt="Javascript"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Langage&message=PHP&color=blue" alt="PHP"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Framework&message=Laravel&color=orange" alt="Laravel"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=API REST&message=API&color=red" alt="REST API"></a> -->
+</p>
